@@ -1,6 +1,6 @@
 # Fitness Garage — Official Website
 
-**Kanaka Nagar, Varanasi · Bengaluru 560036**
+**Kanaka Nagar, Horamavu · Bangalore 560036**
 4.9★ · 623 Google Reviews
 
 ---
@@ -109,4 +109,4 @@ Update the placeholder URLs in these two files with your actual domain:
 | WhatsApp | +91 89515 44738 |
 | Email | Fitnessgarage23@gmail.com |
 | Instagram | [@fitness_garage2023](https://www.instagram.com/fitness_garage2023) |
-| Address | Kanaka Nagar, Varanasi, Bengaluru, Karnataka 560036 |
+| Address | Kanaka Nagar, Horamavu, Kalkere, Bangalore, Karnataka 560036 |

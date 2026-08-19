@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fitnessgarage.in/sitemap.xml
+Sitemap: https://www.fitness-garage.in/sitemap.xml
